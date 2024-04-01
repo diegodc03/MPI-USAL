@@ -1,0 +1,578 @@
+
+***************************************************
+NUMERO DE PROCESOS      : 8
+NUMERO DE GESTORES    : 3
+UMERO DE  >  =  <     : 3
+NUMERO TOTAL (+E/S)   : 7
+***************************************************
+
+P0:	 E/S
+P1:	 GESTOR NUMERO
+P2:	 GESTOR NUMERO
+P3:	 GESTOR NUMERO
+P4:	 ADIVINA > = <
+P5:	 ADIVINA > = <
+P6:	 ADIVINA > = <
+P7:	 SIN TAREA
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	0	0	0.000000	0.000000	procesoPG->0
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	0	0	0.000000	0.000000	procesoPG->0
+
+3	81	0	0	0.000000	0.000000	procesoPG->0
+
+4	96	0	0	0.000000	0.000000	procesoPG->0
+
+5	18	0	0	0.000000	0.000000	procesoPG->0
+
+6	38	0	0	0.000000	0.000000	procesoPG->0
+
+7	41	0	0	0.000000	0.000000	procesoPG->0
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	5	1	0.071113	0.102988
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	0	0	0.000000	0.000000	procesoPG->0
+
+3	81	0	0	0.000000	0.000000	procesoPG->0
+
+4	96	0	0	0.000000	0.000000	procesoPG->0
+
+5	18	0	0	0.000000	0.000000	procesoPG->0
+
+6	38	0	0	0.000000	0.000000	procesoPG->0
+
+7	41	0	0	0.000000	0.000000	procesoPG->0
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	11	3	0.173863	0.224607
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	0	0	0.000000	0.000000	procesoPG->0
+
+4	96	0	0	0.000000	0.000000	procesoPG->0
+
+5	18	0	0	0.000000	0.000000	procesoPG->0
+
+6	38	0	0	0.000000	0.000000	procesoPG->0
+
+7	41	0	0	0.000000	0.000000	procesoPG->0
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	18	3	0.276281	0.408153
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	0	0	0.000000	0.000000	procesoPG->0
+
+5	18	0	0	0.000000	0.000000	procesoPG->0
+
+6	38	0	0	0.000000	0.000000	procesoPG->0
+
+7	41	0	0	0.000000	0.000000	procesoPG->0
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	24	5	0.352302	0.518805
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	0	0	0.000000	0.000000	procesoPG->0
+
+6	38	0	0	0.000000	0.000000	procesoPG->0
+
+7	41	0	0	0.000000	0.000000	procesoPG->0
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	31	6	0.445916	0.650484
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	0	0	0.000000	0.000000	procesoPG->0
+
+7	41	0	0	0.000000	0.000000	procesoPG->0
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	35	6	0.501512	0.783183
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	0	0	0.000000	0.000000	procesoPG->0
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	42	7	0.590979	0.895159
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	0	0	0.000000	0.000000	procesoPG->0
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	49	8	0.679491	1.027250
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	6	2	0.090384	0.117471	procesoPG->3
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	0	0	0.000000	0.000000	procesoPG->0
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	0	0	0.000000	0.000000	procesoPG->0
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	55	10	0.769875	1.144721
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	6	2	0.090384	0.117471	procesoPG->3
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	6	0	0.081484	0.106428	procesoPG->1
+
+11	27	0	0	0.000000	0.000000	procesoPG->0
+
+12	62	6	0	0.081484	0.106428	procesoPG->1
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	67	10	0.932843	1.357577
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	6	2	0.090384	0.117471	procesoPG->3
+
+9	8	0	0	0.000000	0.000000	procesoPG->0
+
+10	62	6	0	0.081484	0.106428	procesoPG->1
+
+11	27	5	0	0.048414	0.066104	procesoPG->3
+
+12	62	6	0	0.081484	0.106428	procesoPG->1
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	72	10	0.981257	1.423681
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	6	2	0.090384	0.117471	procesoPG->3
+
+9	8	7	0	0.161329	0.195238	procesoPG->2
+
+10	62	6	0	0.081484	0.106428	procesoPG->1
+
+11	27	5	0	0.048414	0.066104	procesoPG->3
+
+12	62	6	0	0.081484	0.106428	procesoPG->1
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	79	10	1.142586	1.618919
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	6	2	0.090384	0.117471	procesoPG->3
+
+9	8	7	0	0.161329	0.195238	procesoPG->2
+
+10	62	6	2	0.077444	0.098523	procesoPG->1
+
+11	27	5	0	0.048414	0.066104	procesoPG->3
+
+12	62	6	2	0.077444	0.098523	procesoPG->1
+
+13	79	0	0	0.000000	0.000000	procesoPG->0
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	79	14	1.134506	1.603109
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	6	2	0.090384	0.117471	procesoPG->3
+
+9	8	7	0	0.161329	0.195238	procesoPG->2
+
+10	62	6	2	0.077444	0.098523	procesoPG->1
+
+11	27	5	0	0.048414	0.066104	procesoPG->3
+
+12	62	6	2	0.077444	0.098523	procesoPG->1
+
+13	79	7	1	0.101773	0.147701	procesoPG->3
+
+14	11	0	0	0.000000	0.000000	procesoPG->0
+
+Total----	86	15	1.236279	1.750810
+
+
+
+NN	Numero	I_MIM	O_MIM	Tiempo Calculo	Tiempo Total	Proceso PG
+
+0	93	6	2	0.102750	0.121619	procesoPG->1
+
+1	15	5	1	0.071113	0.102988	procesoPG->2
+
+2	23	7	0	0.102418	0.183546	procesoPG->3
+
+3	81	6	2	0.076021	0.110652	procesoPG->2
+
+4	96	7	1	0.093614	0.131679	procesoPG->1
+
+5	18	4	0	0.055596	0.132699	procesoPG->3
+
+6	38	7	1	0.089467	0.111976	procesoPG->2
+
+7	41	7	1	0.088512	0.132091	procesoPG->1
+
+8	37	6	2	0.090384	0.117471	procesoPG->3
+
+9	8	7	0	0.161329	0.195238	procesoPG->2
+
+10	62	6	2	0.077444	0.098523	procesoPG->1
+
+11	27	5	0	0.048414	0.066104	procesoPG->3
+
+12	62	6	2	0.077444	0.098523	procesoPG->1
+
+13	79	7	1	0.101773	0.147701	procesoPG->3
+
+14	11	7	0	0.101828	0.177573	procesoPG->2
+
+Total----	93	15	1.338107	1.928383
+
+
+
+Proceso	T_Total	T_Calculo	%Calculo	N_Send	N_Recv	N_Iprobe
+
+0	0.701249	0.000000	0%	28	22	0
+
+1	0.701003	0.443804	11%	46	43	0
+
+2	0.700994	0.499758	14%	48	45	0
+
+3	0.701013	0.398585	14%	45	42	0
+
+4	0.700469	0.590121	84%	52	52	30
+
+5	0.700650	0.525430	74%	42	42	27
+
+6	0.700661	0.496649	70%	30	30	21
+
+7	0.700711	0.000000	0%	1	1	0
+
+Total----	5.606750	2.954347	52.692683	292	277	78
+Tiempo total de ejecución: 0.701301 (8 -> 3 PG 3 PA)
